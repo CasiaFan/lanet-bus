@@ -1,4 +1,4 @@
-# Joint localization and classification of breast masses on ultrasound images using an auxiliary attention-based framework
+# Joint localization and classification of breast masses on ultrasound images using an auxiliary attention-based framework ([paper](https://www.sciencedirect.com/science/article/pii/S1361841523002207))
 
 ## Network Architecture
 ![](fig/graphic_abstract.png)
@@ -84,7 +84,8 @@ Visualize the saliency map of an input image via Grad-CAM, run `bash vis_salienc
 ![test](fig/test.png)  ![test_att](fig/test_att.png)
 
 ## Citation
-If you use this paper and code, please cite the following BibTex: TBD
+If you use this paper and code, please cite the following BibTex: 
+> Fan, Zong, et al. "Joint localization and classification of breast masses on ultrasound images using an auxiliary attention-based framework." Medical image analysis 90 (2023): 102960.
 
 
 ### Recommened repositories
